@@ -1,4 +1,6 @@
 #!/usr/bin/ env bash
 
-echo "Hello alu"
+name="Aluwani"
+echo "Hello $name"
+
 
